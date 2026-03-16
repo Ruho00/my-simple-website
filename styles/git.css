@@ -1,3 +1,5 @@
-div{background-color: blue;
+div{background-color: rgb(50, 255, 152);
    padding: 10px;
+   margin-bottom: 10px;
+   border: 10px solid blueviolet ;
 }
